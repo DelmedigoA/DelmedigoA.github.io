@@ -13,7 +13,7 @@ A highly motivated data scientist with a passion for applying machine learning a
 
 ## Work Experience
 
-**Head of Branch | Central Bureau of Statistics, Jerusalem (_August 2022 - Present_)**
+**Head of Branch, Central Bureau of Statistics, Jerusalem (_August 2022 - Present_)**
 
 - Developed and fine-tuned multi-modal models for computer vision tasks, specifically document-based question answering (QA) and classification, using TensorFlow and Hugging Face Transformers
 
