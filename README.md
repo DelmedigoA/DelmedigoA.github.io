@@ -26,7 +26,7 @@ A highly motivated data scientist with a passion for applying machine learning a
 ## Projects
 ### Text Segmentation and Formatting using LSTM Neural Networks
 
-Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advaaced sequence modeling, and natural language processing (NLP) techniques.
+Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advanced sequence modeling, and natural language processing (NLP) techniques.
 
 Project Link -> [SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen?logs=container)
 
