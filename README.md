@@ -43,7 +43,7 @@ Classification, DeepLearning.AI (REMOTE), 2023
 - Applied Statistics, The Central Bureau of Statistics,
 2023
   
-- Data Analyst Certification, Product Experts, 2022
+- Data Analyst Certification, Product Experts, 2022 [Ref](assets/docs/Data Analyst - Certification of Completion.pdf)
 
 - Linear Algebra, Calculus, Statistics, ,Bar-Ilan (In-
 Progress)
