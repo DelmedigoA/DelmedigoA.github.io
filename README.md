@@ -35,15 +35,13 @@ Project Link -> [SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen?logs=c
 - Machine Learning & Neural networks for
 neuroscience, Bar-Ilan, 2024
 
-- Supervised Machine Learning for Regression and
-Classification, DeepLearning.AI (REMOTE), 2023
+- [Supervised Machine Learning for Regression and Classification](https://github.com/DelmedigoA/DelmedigoA.github.io/blob/1f95ccae09ab9756db2dcc60d661acc966a6ba9e/assets/docs/Supervised%20Machine%20Learning%20Regression%20and%20Classification.pdf), DeepLearning.AI (REMOTE), 2023
 
 - Applied data science workshop for neuroscience, Bar-Ilan, 2024
   
 - Applied Statistics, The Central Bureau of Statistics,
 2023
   
-- Data Analyst Certification, Product Experts, 2022 [Ref](https://github.com/DelmedigoA/DelmedigoA.github.io/blob/main/assets/docs/Data%20Analyst%20-%20Certification%20of%20Completion.pdf)
-
-- Linear Algebra, Calculus, Statistics, ,Bar-Ilan (In-
-Progress)
+-  [Data Analyst Certification](https://github.com/DelmedigoA/DelmedigoA.github.io/blob/main/assets/docs/Data%20Analyst%20-%20Certification%20of%20Completion.pdf), Product Experts, 2022
+-  
+- Linear Algebra, Calculus, Statistics, ,Bar-Ilan (In-Progress)
