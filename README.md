@@ -2,6 +2,10 @@
 
 #### Technical Skills: Python, TensorFlow, PyTorch, Transformers, SQL, Web Scraping, R, Flask
 
+## Summary
+
+A highly motivated data scientist with a passion for applying machine learning and cutting-edeg deep-learning techniques to drive buisness efficiency and growth. Experienced in building and deploying wide veraiety of ml models for Document AI, NLP and automation of repeated processes.
+
 ## Education	        		
 - M.Sc, Neuroscience, Data Science track | The Gonda Multidisciplinary Brain Research Center, Bar-Ilan (_In-Progress_)
 - B.A., Psychology | The Hebrew University of Jerusalem (_Feb 2022_)
@@ -9,7 +13,7 @@
 ## Work Experience
 **Head of Branch | Central Bureau of Statistics, Jerusalem (_August 2022 - Present_)**
 
-- Developed and Fine-tuned multi-modal pre-trained models using TensorFlow and Hugging Face Transformers for document-based question answering (QA) and classification tasks
+- Developed and fine-tuned multi-modal models for computer vision tasks, specifically document-based question answering (QA) and classification, using TensorFlow and Hugging Face Transformers
 
 - Developed and deployed a tabular classification machine learning model. Subsequently, I was responsible for constructing and managing a substantial, sensitive dataset utilizing the model’s outputs.
 
@@ -17,7 +21,7 @@
   
 - Responsible for assessing and supervising survey takers' performance data to enhance surveying validity and efficiency as part of Israel's OECD's Program for the International Assessment of Adult Competencies (PIAAC)
 
-- Developed and deployed a web scraping solution to automate information extraction from websites, using Selenium
+- Developed and deployed a web scraping solution to automate information extraction from websites to enhance operational efficiency
 
 ## Projects
 ### Text Segmentation and Formatting using LSTM Neural Networks
@@ -25,3 +29,21 @@
 Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advaaced sequence modeling, and natural language processing (NLP) techniques.
 
 Project Link -> [SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen?logs=container)
+
+##  Relevant Courses and Certificates
+
+- Machine Learning & Neural networks for
+neuroscience, Bar-Ilan, 2024
+
+- Supervised Machine Learning for Regression and
+Classification, DeepLearning.AI (REMOTE), 2023
+
+- Applied data science workshop for neuroscience, Bar-Ilan, 2024
+  
+- Applied Statistics, The Central Bureau of Statistics,
+2023
+  
+- Data Analyst Certification, Product Experts, 2022
+
+- Linear Algebra, Calculus, Statistics, ,Bar-Ilan (In-
+Progress)
