@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, PyTorch, Transformers, SQL
+#### Technical Skills: Python, PyTorch, TensorFlow, Transformers, SQL, Web Scraping, R, Flask
 
 ## Education	        		
 - M.Sc. in Neuroscience, Data Science track, The Gonda Multidisciplinary Brain Research Center, Bar-Ilan (_In-Progress_)
@@ -8,11 +8,14 @@
 
 ## Work Experience
 **Head of Branch Central Bureau of Statistics, Jerusalem (_August 2022 - Present_)**
-- Developed recommendation systems using machine learning and deep learning techniques to optimize survey efficiency
-  
-- Fine-tuned multi-modal pre-trained models using Hugging Face Transformers for document-based question answering (QA) and classification tasks
 
-- Extract valuable information from databases and provide meaningful insights for decision-making, utilizing SQL
+- Developed and deployed a web scraping solution to automate information extraction from websites
+
+- Developed and Fine-tuned multi-modal pre-trained models using Hugging Face Transformers for document-based question answering (QA) and classification tasks
+
+- Developed recommendation systems using machine learning and deep learning techniques to optimize survey efficiency
+
+- Extract valuable information from databases and provide meaningful insights for decision-making, using complex SQL queries
   
 - Responsible for assessing and supervising survey takers' performance data to enhance surveying validity and efficiency as part of Israel's OECD's Program for the International Assessment of Adult Competencies (PIAAC)
 
