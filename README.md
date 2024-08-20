@@ -28,7 +28,7 @@ A highly motivated data scientist with a passion for applying machine learning a
 
 Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advanced sequence modeling, and natural language processing (NLP) techniques.
 
-Project Link -> [SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen?logs=container)
+[SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen?logs=container)
 
 ##  Relevant Courses and Certificates
 
@@ -43,5 +43,5 @@ neuroscience, Bar-Ilan, 2024
 2023
   
 -  [Data Analyst Certification](https://github.com/DelmedigoA/DelmedigoA.github.io/blob/main/assets/docs/Data%20Analyst%20-%20Certification%20of%20Completion.pdf), Product Experts, 2022
--  
+  
 - Linear Algebra, Calculus, Statistics, ,Bar-Ilan (In-Progress)
