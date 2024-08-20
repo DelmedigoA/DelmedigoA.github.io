@@ -1,16 +1,18 @@
 # Data Scientist
 
-#### Technical Skills: Python, TensorFlow, PyTorch, Transformers, SQL, Web Scraping, R, Flask
+#### Technical Skills: Python, R, SQL, TensorFlow, PyTorch, Transformers, Web Scraping, Flask
 
 ## Summary
 
 A highly motivated data scientist with a passion for applying machine learning and cutting-edeg deep-learning techniques to drive buisness efficiency and growth. Experienced in building and deploying wide veraiety of ml models for Document AI, NLP and automation of repeated processes.
 
-## Education	        		
+## Education
+
 - M.Sc, Neuroscience, Data Science track | The Gonda Multidisciplinary Brain Research Center, Bar-Ilan (_In-Progress_)
 - B.A., Psychology | The Hebrew University of Jerusalem (_Feb 2022_)
 
 ## Work Experience
+
 **Head of Branch | Central Bureau of Statistics, Jerusalem (_August 2022 - Present_)**
 
 - Developed and fine-tuned multi-modal models for computer vision tasks, specifically document-based question answering (QA) and classification, using TensorFlow and Hugging Face Transformers
@@ -24,6 +26,7 @@ A highly motivated data scientist with a passion for applying machine learning a
 - Developed and deployed a web scraping solution to automate information extraction from websites to enhance operational efficiency
 
 ## Projects
+
 ### Text Segmentation and Formatting using LSTM Neural Networks
 
 Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advanced sequence modeling, and natural language processing (NLP) techniques.
