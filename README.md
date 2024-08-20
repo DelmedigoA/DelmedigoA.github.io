@@ -28,7 +28,7 @@ A highly motivated data scientist with a passion for applying machine learning a
 
 Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advanced sequence modeling, and natural language processing (NLP) techniques.
 
-[SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen?logs=container)
+[SpaceGen](https://huggingface.co/spaces/asafd60/SpaceGen)
 
 ##  Relevant Courses and Certificates
 
