@@ -26,5 +26,3 @@
 
 Implemented an LSTM-based model for word segmentation in unstructured text as part of an academic project. The model effectively identifies boundaries within continuous text sequences, transforming strings like "thisisatext" into "this is a text.", using advaanced sequence modeling, and natural language processing (NLP) techniques.
 
-### Visual Document Question Answering of Hebrew Financial Reports
-[Publication](link)
