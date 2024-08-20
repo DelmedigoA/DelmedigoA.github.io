@@ -43,6 +43,6 @@ Implemented SpaceGen, an LSTM-based model for word segmentation in unstructured 
   
 - Applied Statistics | The Central Bureau of Statistics, 2023
   
--  [Data Analyst Certification](https://github.com/DelmedigoA/DelmedigoA.github.io/blob/main/assets/docs/Data%20Analyst%20-%20Certification%20of%20Completion.pdf), Product Experts, 2022
+-  [Data Analyst Certification](https://github.com/DelmedigoA/DelmedigoA.github.io/blob/main/assets/docs/Data%20Analyst%20-%20Certification%20of%20Completion.pdf) | Product Experts, 2022
   
 - Linear Algebra, Calculus, Statistics | Bar-Ilan (In-Progress)
